@@ -2,6 +2,6 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div>cloudinary AI saas</div>
+    <div>cloudinary AI saas kind of own youtube</div>
   );
 }
